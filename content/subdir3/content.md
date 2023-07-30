@@ -1,6 +1,6 @@
 ---
-title: "Content 2"
-date: 2023-02-25T14:41:09+01:00
+title: "Content in subdir 3"
+date: 2023-07-30
 draft: true
 ---
-Content 2
+Content 1 from module

@@ -1,7 +1,7 @@
 ---
-title: "Subdir2"
-date: 2023-02-25T14:44:34+01:00
+title: "Subdir3"
+date: 2023-07-30
 draft: true
 ---
 
-Sub dir 2
+Sub dir 3 from module
